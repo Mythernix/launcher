@@ -1,1 +1,1 @@
-asdasdasdads|0.0.1|https://github.com/Mythernix/launcher/raw/refs/heads/main/Lexplosion.exe
+0.0.1|0.0.1|https://github.com/Mythernix/launcher/raw/refs/heads/main/Lexplosion.exe
