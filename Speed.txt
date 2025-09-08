@@ -1,0 +1,1 @@
+1.0.0|versions|https://raw.githubusercontent.com/Mythernix/launcher/refs/heads/main/versions.txt
