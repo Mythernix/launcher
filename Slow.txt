@@ -1,0 +1,1 @@
+1.0.0|assets|https://raw.githubusercontent.com/Mythernix/launcher/refs/heads/main/Assets
