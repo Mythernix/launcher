@@ -1,1 +1,1 @@
-1.0.0|dwsad.zip|https://github.com/Mythernix/FilesArchive/releases/download/Modses/dwsad.zip
+1.0.0|dwsad|https://github.com/Mythernix/FilesArchive/releases/download/Modses/dwsad.zip
