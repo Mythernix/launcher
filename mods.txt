@@ -1,0 +1,2 @@
+1.0.0|das dd.jar|https://github.com/Mythernix/mods/releases/download/mods/das.dq.jar
+1.0.0|dd.jar|https://github.com/Mythernix/mods/releases/download/mods/dd.jar
