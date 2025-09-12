@@ -1,2 +1,2 @@
-1.0.0|indexes|https://github.com/Mythernix/FilesArchive/releases/download/Modses/indexes.zip
-1.0.0|objects|https://github.com/Mythernix/FilesArchive/releases/download/Modses/objects.zip
+1.0.0|indexes.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/indexes.zip
+1.0.0|objects.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/objects.zip
