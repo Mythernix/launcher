@@ -1,1 +1,12 @@
-1.0.0|Adobusd|https://github.com/Mythernix/FilesArchive/releases/download/Modses/Adobusd.zip
+1.0.0|com|https://github.com/Mythernix/FilesArchive/releases/download/Modses/com.zip
+1.0.0|commons-codec|https://github.com/Mythernix/FilesArchive/releases/download/Modses/commons-codec.zip
+1.0.0|commons-io|https://github.com/Mythernix/FilesArchive/releases/download/Modses/commons-io.zip
+1.0.0|commons-logging|https://github.com/Mythernix/FilesArchive/releases/download/Modses/commons-logging.zip
+1.0.0|cpw|https://github.com/Mythernix/FilesArchive/releases/download/Modses/cpw.zip
+1.0.0|de|https://github.com/Mythernix/FilesArchive/releases/download/Modses/de.zip
+1.0.0|io|https://github.com/Mythernix/FilesArchive/releases/download/Modses/io.zip
+1.0.0|it|https://github.com/Mythernix/FilesArchive/releases/download/Modses/it.zip
+1.0.0|net|https://github.com/Mythernix/FilesArchive/releases/download/Modses/net.zip
+1.0.0|optifine|https://github.com/Mythernix/FilesArchive/releases/download/Modses/optifine.zip
+1.0.0|org|https://github.com/Mythernix/FilesArchive/releases/download/Modses/org.zip
+1.0.0|trove|https://github.com/Mythernix/FilesArchive/releases/download/Modses/trove.zip
