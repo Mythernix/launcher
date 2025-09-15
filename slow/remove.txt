@@ -1,1 +1,1 @@
-assets/cpw.dir|REMOVE_ONLY
+assets/cpw.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/cpw.zip
