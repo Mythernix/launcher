@@ -1,0 +1,2 @@
+1.0.0|1.20.1-forge-47.4.6.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/1.20.1-forge-47.4.6.zip
+1.0.0|1.20.1.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/1.20.1.zip
