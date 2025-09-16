@@ -1,1 +1,1 @@
-0.0.2|0.0.2|https://github.com/Mythernix/launcher/releases/download/sadas/MythernixLauncher.exe
+1.0.1|1.0.1|https://github.com/Mythernix/launcher/releases/download/sadas/MythernixLauncher.exe
