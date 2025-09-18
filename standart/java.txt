@@ -1,1 +1,1 @@
-1.0.0|java.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/java.zip
+1.0.0|Jdk-17.dir|https://github.com/Mythernix/FilesArchive/releases/download/Modses/jdk-17.zip
