@@ -91,7 +91,6 @@
 1.0.0|Polymorph_0.49.1.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Polymorph_0.49.1.jar
 1.0.0|Presence_Footsteps_1-1.9.1.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Presence_Footsteps_1-1.9.1.jar
 1.0.0|Prism_1.0.3.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Prism_1.0.3.jar
-1.0.0|Project_MMO_1.7.38.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Project_MMO_1.7.38.jar
 1.0.0|Project_Vibrant_Journeys_6.2.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Project_Vibrant_Journeys_6.2.jar
 1.0.0|Puzzles_Lib_8.1.32.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Puzzles_Lib_8.1.32.jar
 1.0.0|Quark_4.0.462.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Quark_4.0.462.jar
@@ -134,4 +133,5 @@
 1.0.0|YUNGs_Better_Nether_Fortresses_2.0.6.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/YUNGs_Better_Nether_Fortresses_2.0.6.jar
 1.0.0|YUNGs_Extras_4.0.3.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/YUNGs_Extras_4.0.3.jar
 1.0.0|Zeta_1.0.3.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Zeta_1.0.3.jar
+
 
