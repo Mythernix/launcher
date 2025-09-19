@@ -41,7 +41,6 @@
 1.0.0|Farmers_Delight_1.2.8.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Farmers_Delight_1.2.8.jar
 1.0.0|Fast_Suite_5.1.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Fast_Suite_5.1.jar
 1.0.0|Ferrite_Core_6.0.1.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Ferrite_Core_6.0.1.jar
-1.0.0|file_list.txt|https://github.com/Mythernix/modlist/releases/download/asdasd/file_list.txt
 1.0.0|Fishing_Overhaul_1.2.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Fishing_Overhaul_1.2.jar
 1.0.0|Fishing_Real_1.9.1.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Fishing_Real_1.9.1.jar
 1.0.0|Fzzy_Config_0.7.2.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Fzzy_Config_0.7.2.jar
@@ -135,3 +134,4 @@
 1.0.0|YUNGs_Better_Nether_Fortresses_2.0.6.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/YUNGs_Better_Nether_Fortresses_2.0.6.jar
 1.0.0|YUNGs_Extras_4.0.3.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/YUNGs_Extras_4.0.3.jar
 1.0.0|Zeta_1.0.3.jar|https://github.com/Mythernix/modlist/releases/download/asdasd/Zeta_1.0.3.jar
+
