@@ -40,7 +40,6 @@
 1.0.0|farmersdelight-common.toml|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/farmersdelight-common.toml
 1.0.0|fastsuite.cfg|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/fastsuite.cfg
 1.0.0|ferritecore-mixin.toml|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/ferritecore-mixin.toml
-1.0.0|file_list.txt|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/file_list.txt
 1.0.0|fishingreal-common.toml|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/fishingreal-common.toml
 1.0.0|flywheel-client.toml|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/flywheel-client.toml
 1.0.0|fml.toml|https://raw.githubusercontent.com/Mythernix/config/refs/heads/master/fml.toml
